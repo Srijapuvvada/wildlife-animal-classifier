@@ -71,7 +71,7 @@ This project demonstrates the power of Transfer Learning in real-world image cla
 
 ##  Results
 
-- Achieved **XX% test accuracy** (update after training)
+- Achieved **98% test accuracy** (update after training)
 - Good generalization on unseen test images
 - Habitat prediction aligned with biological mappings
 
